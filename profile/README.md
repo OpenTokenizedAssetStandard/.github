@@ -65,8 +65,7 @@ All contributions require a signed [Developer Certificate of Origin (DCO)](https
 
 **Date:** May 7, 2026
 **Time:** 10:00 AM EST
-**Join via Google Meet:** [Google Meet Link](https://meet.google.com/mfo-vgvz-opd)
-
+**Join via Zoom:** [Zoom Link](https://zoom-lfx.platform.linuxfoundation.org/meeting/96720583853?password=0db54019-2f3c-4289-a304-cce861e8c972)
 All community members, contributors, and those interested in tokenized assets are welcome. This is an excellent opportunity to connect with the team, ask questions, and learn about the latest OTAS developments.
 
 **To participate:** Click the Google Meet link above to join the call. No registration required—just show up!
