@@ -71,24 +71,16 @@ In addition, all previous sessions recordings can be found on that's day's meeti
 | OTAS Community Meeting       | [LFX Calendar link](https://zoom-lfx.platform.linuxfoundation.org/meetings/open-tokenized-asset-standard)         | [Register](https://zoom-lfx.platform.linuxfoundation.org/meeting/91869019714?password=b750bc97-3e2f-41d5-90f5-60392e0442dd) |
 
 ## OTAS Meeting Recordings
-OTAS Community Meetings are recorded and available via LFX and YouTube. LFX Recordings of OTAS Meetings include a transcript and chat messages. 
+All community members, contributors, and those interested in tokenized assets are welcome. This is an excellent opportunity to connect with the team, ask questions, and learn about the latest OTAS developments. OTAS Community Meetings are recorded and available via LFX and YouTube. 
 
 There are two ways to access past meeting recordings:
 
 - Via [LFX Individual Dashboard](https://openprofile.dev/) - Create and complete [your profile](https://zoom-lfx.platform.linuxfoundation.org/meeting/91869019714?password=b750bc97-3e2f-41d5-90f5-60392e0442dd). Look for past meeting recordings under My Meetings section. Recordings of meetings you are registered to will appear in the list. If you need to be registered to a specific meeting series, register using the button above or let LF Staff know via [Discord](https://discord.lfdecentralizedtrust.org/).
 - Via [OTAS Public Calendar](https://zoom-lfx.platform.linuxfoundation.org/meetings/open-tokenized-asset-standard?view=week) - Browse meeting recordings in the calendar. Recordings appear aprox an hour after the meeting has ended.
+- LFX Recordings of OTAS Meetings include a transcript and chat messages.
 
 ## LFX Tooling
 LFX is Linux Foundation’s comprehensive, free-to-use open source project collaboration platform designed to help developers, maintainers, organizations, and contributors streamline and scale open source initiatives. Linux Foundation hosted projects gain valuable support from these tools for streamlined project monitoring and administration. [Learn more about LFX](https://lfx.linuxfoundation.org/).
 
 - [LFX Individual Dashboard](https://openprofile.dev/) - Is a self-service hub for all of your open source activity and great tool to easily access past meeting recordings. Read More.
 - [LFX Insights](https://insights.linuxfoundation.org/) - This tool helps developers and their organizations make smarter decisions about the open source projects by tracking their project's health. [Read More](https://insights.linuxfoundation.org/docs/introduction/what-is-insights/). [Contribute!](https://github.com/linuxfoundation/insights).
-
-## Upcoming Community Meeting
-
-**Date:** May 7, 2026
-**Time:** 10:00 AM EST
-**Join via Zoom:** [Zoom Link](https://zoom-lfx.platform.linuxfoundation.org/meeting/96720583853?password=0db54019-2f3c-4289-a304-cce861e8c972)
-All community members, contributors, and those interested in tokenized assets are welcome. This is an excellent opportunity to connect with the team, ask questions, and learn about the latest OTAS developments.
-
-**To participate:** Click the Zoom link above to join the call. No registration required—just show up!
