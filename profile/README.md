@@ -48,7 +48,6 @@ OTAS is an open community. Whether you're a researcher, protocol developer, fina
 
 Visit our [documentation](https://lf-decentralized-trust-labs.github.io/labs/lfdt/otas.html) for guidelines on how to contribute to research, prototypes, documentation, or specification work.
 
-
 ## Ways to Contribute
 
 You don't need to write code to contribute meaningfully to OTAS. The lab needs:
@@ -60,6 +59,30 @@ You don't need to write code to contribute meaningfully to OTAS. The lab needs:
 - **Reviewers** — feedback on drafts, research reports, and prototypes at any stage
 
 All contributions require a signed [Developer Certificate of Origin (DCO)](https://developercertificate.org/). See our [documentation](https://lf-decentralized-trust-labs.github.io/labs/lfdt/otas.html) for details.
+
+## OTAS Community Meetings 
+The OTAS Community Meetings occur every other week on Tuesdays at the following times: 8-8:30amPT / 11-11:30am ET / 17-17:30 CET. 
+You can find upcoming meetings at the LFX Calendar link below. 
+Meeting agendas [can be found here](https://github.com/OpenTokenizedAssetStandard/tsc/tree/main/community_meeting_agendas). 
+In addition, all previous sessions recordings can be found on that's day's meeting entry. 
+
+| Community Meeting    | Meeting occurrence link                                                                                           | Registration link                                                                                                                       |
+| ---------------------------- |-------------------------------------------------------------------------------------------------------------------| --------------------------------------------------------------------------------------------------------------------------------------- |
+| OTAS Community Meeting       | [LFX Calendar link](https://zoom-lfx.platform.linuxfoundation.org/meetings/open-tokenized-asset-standard)         | [Register](https://zoom-lfx.platform.linuxfoundation.org/meeting/91869019714?password=b750bc97-3e2f-41d5-90f5-60392e0442dd) |
+
+## OTAS Meeting Recordings
+OTAS Community Meetings are recorded and available via LFX and YouTube. LFX Recordings of OTAS Meetings include a transcript and chat messages. 
+
+There are two ways to access past meeting recordings:
+
+- Via [LFX Individual Dashboard](https://openprofile.dev/) - Create and complete [your profile](https://zoom-lfx.platform.linuxfoundation.org/meeting/91869019714?password=b750bc97-3e2f-41d5-90f5-60392e0442dd). Look for past meeting recordings under My Meetings section. Recordings of meetings you are registered to will appear in the list. If you need to be registered to a specific meeting series, register using the button above or let LF Staff know via [Discord](https://discord.lfdecentralizedtrust.org/).
+- Via [OTAS Public Calendar](https://zoom-lfx.platform.linuxfoundation.org/meetings/open-tokenized-asset-standard?view=week) - Browse meeting recordings in the calendar. Recordings appear aprox an hour after the meeting has ended.
+
+## LFX Tooling
+LFX is Linux Foundation’s comprehensive, free-to-use open source project collaboration platform designed to help developers, maintainers, organizations, and contributors streamline and scale open source initiatives. Linux Foundation hosted projects gain valuable support from these tools for streamlined project monitoring and administration. [Learn more about LFX](https://lfx.linuxfoundation.org/).
+
+- [LFX Individual Dashboard](https://openprofile.dev/) - Is a self-service hub for all of your open source activity and great tool to easily access past meeting recordings. Read More.
+- [LFX Insights](https://insights.linuxfoundation.org/) - This tool helps developers and their organizations make smarter decisions about the open source projects by tracking their project's health. [Read More](https://insights.linuxfoundation.org/docs/introduction/what-is-insights/). [Contribute!](https://github.com/linuxfoundation/insights).
 
 ## Upcoming Community Meeting
 
