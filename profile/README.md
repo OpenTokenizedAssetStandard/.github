@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/OpenTokenizedAssetStandard/tsc/blob/main/docs/OTAS_temp_logo_25.png?"/>
+</p>
+
 # Open Tokenized Asset Standard (OTAS)
 A LF Decentralized Trust lab contributing open source smart contract reference implementations for tokenized financial instruments — providing the industry a neutral, auditable on-chain foundation while platform-level orchestration, compliance, and lifecycle management remain out of scope.
 
