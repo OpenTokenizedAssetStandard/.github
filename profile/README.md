@@ -67,7 +67,7 @@ You don't need to write code to contribute meaningfully to OTAS. The lab needs:
 All contributions require a signed [Developer Certificate of Origin (DCO)](https://developercertificate.org/). See our [documentation](https://lf-decentralized-trust-labs.github.io/labs/approved/otas.html) for details.
 
 ## OTAS Community Meetings 
-- The OTAS Community Meetings occur monthly Tuesdays at the following times: 8-8:30amPT / 11-11:30am ET / 17-17:30 CET. 
+- The OTAS Community Meetings occur monthly on Tuesdays at the following times: 8-8:30amPT / 11-11:30am ET / 17-17:30 CET. 
 - You can find upcoming meetings at the LFX Calendar link below. 
 - Meeting agendas [can be found here](https://github.com/OpenTokenizedAssetStandard/tsc/tree/main/community_meeting_agendas). 
 - In addition, all previous sessions recordings can be found on that's day's meeting entry. 
