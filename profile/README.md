@@ -34,7 +34,6 @@ This lab operates under LF Decentralized Trust. All outputs are contributed unde
 # Initial Committers
 - https://github.com/pv-suren - Suren
 - https://github.com/pv-sarvesh - Sarvesh
-- https://github.com/pv-somyaditya - Somyaditya
 
 # Sponsor
 - https://github.com/manolisliolios - Manos Liolios (SUI Foundation | Mysten Labs)
