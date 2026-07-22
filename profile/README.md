@@ -49,9 +49,10 @@ OTAS - Researching Composable Token Primitives for Post-Trade Clearing, Settleme
 ## How to Get Involved
 OTAS is an open community. Whether you're a researcher, protocol developer, financial markets professional, or just curious — there's a place for you here.
 
-- Visit our [documentation](https://lf-decentralized-trust-labs.github.io/labs/approved/otas.html) for guidelines on how to contribute to research, prototypes, documentation, or specification work.
 - [Join our Discord](https://discord.lfdecentralizedtrust.org) and check out the #opentokenizedassetstandard channel
 - Join the OTAS Mailing List: The OTAS Community now has a mailing list. Instructions for subscribing and posting can be found here: [https://lists.lfdecentralizedtrust.org/g/OpenTokenizedAssetStandard](https://lists.lfdecentralizedtrust.org/g/OpenTokenizedAssetStandard)
+- Add your name to our participants list here: [https://github.com/OpenTokenizedAssetStandard/tsc/blob/main/Participants.md](https://github.com/OpenTokenizedAssetStandard/tsc/blob/main/Participants.md)
+- In the near future we will start developing our Documentation section for guidelines on how to contribute to research, prototypes, documentation, or specification work.
 
 ## Ways to Contribute
 
@@ -63,7 +64,7 @@ You don't need to write code to contribute meaningfully to OTAS. The lab needs:
 - **Technical writers** — documentation, whitepaper drafting, specification writing
 - **Reviewers** — feedback on drafts, research reports, and prototypes at any stage
 
-All contributions require a signed [Developer Certificate of Origin (DCO)](https://developercertificate.org/). See our [documentation](https://lf-decentralized-trust-labs.github.io/labs/approved/otas.html) for details.
+All contributions require a signed [Developer Certificate of Origin (DCO)](https://developercertificate.org/). 
 
 ## OTAS Community Meetings 
 - The OTAS Community Meetings occur monthly on Tuesdays at the following times: 8-8:30amPT / 11-11:30am ET / 17-17:30 CET. 
